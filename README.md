@@ -5,7 +5,7 @@
 # layout web
 ![compradepizzagif](https://github.com/Leonado29/Projeto-Site-de-venda-de-Pizza/blob/master/compradepizzagif.gif)
 # layout mobile 
-
+![compradepizzamobilegif](https://github.com/Leonado29/Projeto-Site-de-venda-de-Pizza/blob/master/compradepizzamobilegif.gif)
 # Tecnologias utilizadas 
 - HTM5, CSS3, Javascript.
 - # Autor
