@@ -173,6 +173,7 @@ function updateCart() {
             });
 
             qs('.cart').append(cartItem)
+
         }        
 
         desconto = subtotal * 0.1;
@@ -188,3 +189,5 @@ function updateCart() {
         qs('aside').style.left = '100vw';
     }
 }
+
+
