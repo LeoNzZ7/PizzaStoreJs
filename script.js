@@ -190,4 +190,12 @@ function updateCart() {
     }
 }
 
+document.querySelector('.sucess button').addEventListener('click', () => {
+    document.querySelector('.finish').style.display = 'none';
+})
 
+document.querySelector('.cart--finalizar').addEventListener('click', () => {
+    document.querySelector('.finish').style.display = 'flex';
+    cart = []
+    updateCart();
+})
